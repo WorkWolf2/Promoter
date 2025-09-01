@@ -29,7 +29,7 @@
 1. **Download the Plugin**
    ```bash
    # Clone the repository
-   git clone https://github.com/yourusername/promoter.git
+   git clone https://github.com/WorkWolf2/Promoter.git
    cd promoter
    
    # Build the project
@@ -135,7 +135,7 @@ src/main/java/com/minegolem/promoter/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/promoter.git
+git clone https://github.com/WorkWolf2/Promoter.git
 cd promoter
 
 # Build the project
@@ -194,10 +194,8 @@ This project is distributed under the MIT license. See the `LICENSE` file for mo
 
 If you have problems or questions:
 
-- 📧 **Email**: [your-email@example.com]
-- 💬 **Discord**: [Discord server link]
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/promoter/issues)
-- 📖 **Wiki**: [Complete documentation](https://github.com/yourusername/promoter/wiki)
+- 💬 **Discord**: [Discord server link](https://discord.quartzmc.it/)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/WorkWolf_2/promoter/issues)
 
 ---
 
